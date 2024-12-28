@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+# Suraj Goud
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
